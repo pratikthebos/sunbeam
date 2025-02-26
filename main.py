@@ -8,7 +8,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 
-bot = Bot(token='7753361066:AAHcpIdZnmbexVt4pbBIArKLGHaVokqO8LU')
+bot = Bot(token='Telegram_Token')
 dp = Dispatcher(bot)
 
 button1 = InlineKeyboardButton(text="Hall Ticket",url="https://nmuj.digitaluniversity.ac/PreExamV2_DownloadHallTicket_New.aspx")
